@@ -1,0 +1,30 @@
+[
+    {
+        "user_id": 2,
+        "username": "john_doe",
+        "logout_time": "2026-04-25 10:52:37",
+        "session_duration": 67,
+        "ip": "::1"
+    },
+    {
+        "user_id": 3,
+        "username": "rehan",
+        "logout_time": "2026-04-25 10:57:44",
+        "session_duration": 258,
+        "ip": "::1"
+    },
+    {
+        "user_id": 1,
+        "username": "admin",
+        "logout_time": "2026-04-25 11:00:12",
+        "session_duration": 109,
+        "ip": "::1"
+    },
+    {
+        "user_id": 4,
+        "username": "shasha",
+        "logout_time": "2026-04-25 11:01:37",
+        "session_duration": 31,
+        "ip": "::1"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "user_id": 2,
+        "user_name": "john_doe",
+        "date": "2026-04-25",
+        "meal_type": "breakfast",
+        "rating": 3,
+        "comments": "ok",
+        "status": "pending",
+        "created_at": "2026-04-25 10:52:16",
+        "ip_address": "::1"
+    }
+]

@@ -1,0 +1,107 @@
+[
+    {
+        "day": "Monday",
+        "meal_type": "breakfast",
+        "items": "Idli, Sambhar, Chutney"
+    },
+    {
+        "day": "Monday",
+        "meal_type": "lunch",
+        "items": "Rice, Dal Fry, Mix Veg, Chapati"
+    },
+    {
+        "day": "Monday",
+        "meal_type": "dinner",
+        "items": "Chapati, Paneer Butter Masala, Salad"
+    },
+    {
+        "day": "Tuesday",
+        "meal_type": "breakfast",
+        "items": "Dosa, Sambhar, Coconut Chutney"
+    },
+    {
+        "day": "Tuesday",
+        "meal_type": "lunch",
+        "items": "Jeera Rice, Rajma, Salad"
+    },
+    {
+        "day": "Tuesday",
+        "meal_type": "dinner",
+        "items": "Chapati, Aloo Gobi, Dal Tadka"
+    },
+    {
+        "day": "Wednesday",
+        "meal_type": "breakfast",
+        "items": "Poha, Jalebi"
+    },
+    {
+        "day": "Wednesday",
+        "meal_type": "lunch",
+        "items": "Biryani, Raita, Salad"
+    },
+    {
+        "day": "Wednesday",
+        "meal_type": "dinner",
+        "items": "Chapati, Chole, Rice"
+    },
+    {
+        "day": "Thursday",
+        "meal_type": "breakfast",
+        "items": "Upma, Vada, Sambhar"
+    },
+    {
+        "day": "Thursday",
+        "meal_type": "lunch",
+        "items": "Rice, Sambhar, Rasam, Papad"
+    },
+    {
+        "day": "Thursday",
+        "meal_type": "dinner",
+        "items": "Chapati, Palak Paneer, Salad"
+    },
+    {
+        "day": "Friday",
+        "meal_type": "breakfast",
+        "items": "Paratha, Curd, Pickle"
+    },
+    {
+        "day": "Friday",
+        "meal_type": "lunch",
+        "items": "Fried Rice, Manchurian, Soup"
+    },
+    {
+        "day": "Friday",
+        "meal_type": "dinner",
+        "items": "Chapati, Dal Makhani, Jeera Rice"
+    },
+    {
+        "day": "Saturday",
+        "meal_type": "breakfast",
+        "items": "Poori, Bhaji, Halwa"
+    },
+    {
+        "day": "Saturday",
+        "meal_type": "lunch",
+        "items": "Thali (Special)"
+    },
+    {
+        "day": "Saturday",
+        "meal_type": "dinner",
+        "items": "Chapati, Kadai Paneer, Naan"
+    },
+    {
+        "day": "Sunday",
+        "meal_type": "breakfast",
+        "items": "Bread, Butter, Jam, Cornflakes"
+    },
+    {
+        "day": "Sunday",
+        "meal_type": "lunch",
+        "items": "Rice, Fish\/Chicken Curry, Veg"
+    },
+    {
+        "day": "Sunday",
+        "meal_type": "dinner",
+        "items": "Chapati, Egg Curry, Salad"
+    }
+]

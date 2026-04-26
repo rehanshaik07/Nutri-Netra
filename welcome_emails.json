@@ -1,0 +1,14 @@
+[
+    {
+        "user_id": 3,
+        "email": "rehanshaik5001@gmail.com",
+        "sent_at": "2026-04-25 10:52:58",
+        "type": "welcome"
+    },
+    {
+        "user_id": 4,
+        "email": "shasha@gmail.com",
+        "sent_at": "2026-04-25 11:00:50",
+        "type": "welcome"
+    }
+]

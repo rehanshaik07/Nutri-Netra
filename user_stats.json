@@ -1,0 +1,10 @@
+[
+    {
+        "user_id": 2,
+        "username": "john_doe",
+        "total_feedback": 0,
+        "avg_rating": 0,
+        "total_wastage": 0,
+        "attendance_count": 0
+    }
+]

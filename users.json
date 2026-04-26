@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "username": "admin",
+        "email": "admin@nutri-netra.com",
+        "password": "$2y$10$Kdo5Hcu1O01EGeRFpSE1iu4MupL63PIwMXv2KLxfD4Y5sLJJRPpqy",
+        "role": "admin",
+        "created_at": "2026-04-25 10:51:29",
+        "last_login": "2026-04-25 10:58:23",
+        "login_count": 1
+    },
+    {
+        "id": 2,
+        "username": "john_doe",
+        "email": "john@example.com",
+        "password": "$2y$10$2RxyCViCe\/IQxExikx1x8uKlGxTKGY6jKizYQyY9mOFkiyApUIC5S",
+        "role": "user",
+        "created_at": "2026-04-25 10:51:30",
+        "last_login": "2026-04-25 11:56:39",
+        "login_count": 2
+    },
+    {
+        "id": 3,
+        "username": "rehan",
+        "email": "rehanshaik5001@gmail.com",
+        "password": "$2y$10$KPc6LStrbUH.a32xeoKmDuFZONd4ImYJgTu4GrMDetsiI9wZNLHw2",
+        "role": "user",
+        "created_at": "2026-04-25 10:52:58",
+        "last_login": "2026-04-26 09:25:39",
+        "login_count": 3,
+        "is_active": true,
+        "profile_pic": null
+    },
+    {
+        "id": 4,
+        "username": "shasha",
+        "email": "shasha@gmail.com",
+        "password": "$2y$10$\/WouU6zsQaBD0.WneKPxA.Punwc1E2yJO3IkRjfLuyzDHu5jr9eQW",
+        "role": "user",
+        "created_at": "2026-04-25 11:00:50",
+        "last_login": "2026-04-25 11:01:06",
+        "login_count": 1,
+        "is_active": true,
+        "profile_pic": null
+    }
+]
